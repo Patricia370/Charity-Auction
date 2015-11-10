@@ -1,0 +1,14 @@
+10/11/15 19:50
+Estadísticas del proyecto
+
+                  	Segmentos	Palabras	Caracteres (sin espacios)	Caracteres (incluyendo espacios)	#Files	
+Total:            	       50	     302	                     1616	                            1852	     1	
+Pendientes:       	       50	     302	                     1616	                            1852	     1	
+Únicos:           	       49	     296	                     1592	                            1823	     1	
+Pendientes únicos:	       49	     296	                     1592	                            1823	     1	
+
+
+Estadísticas por archivo individual:
+
+Nombre de archivo   	Total segmentos	Segmentos pendientes	Segmentos únicos	Segmentos únicos pendientes	Palabras en total	Palabras pendientes	Palabras únicas	Palabras únicas pendientes	Caracteres en total (sin espacios)	Caracteres pendientes (sin espacios)	Caracteres únicos (sin espacios)	Caracteres únicos pendientes (sin espacios)	Caracteres en total (incluyendo espacios)	Caracteres pendientes (incluyendo espacios)	Caracteres únicos (incluyendo espacios)	Caracteres únicos pendientes (incluyendo espacios)	
+Charity Auction.docx	             50	                  50	              49	                         49	              302	                302	            296	                       296	                              1616	                                1616	                            1592	                                       1592	                                     1852	                                       1852	                                   1823	                                              1823	
