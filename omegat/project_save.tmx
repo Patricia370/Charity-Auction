@@ -4,6 +4,22 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Charity&lt;t0/&gt; &lt;t1/&gt;Auction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151111T120250Z" creationid="Patry" creationdate="20151111T120250Z">
+        <seg>Subasta&lt;t0/&gt; &lt;t1/&gt;benéfica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JOIN US FOR THIS GREAT CAUSE!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151111T120318Z" creationid="Patry" creationdate="20151111T120318Z">
+        <seg>¡ÚNETE A NOSOTROS EN ESTA CAUSA SOLIDARIA!</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
