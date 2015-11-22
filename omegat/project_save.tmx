@@ -20,6 +20,14 @@
         <seg>¡ÚNETE A NOSOTROS EN ESTA CAUSA SOLIDARIA!</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Would &lt;t2/&gt;you consider donating these items or &lt;t3/&gt;volunteering&lt;t4/&gt; your time to a cause that will benefit humanity?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151122T173944Z" creationid="Patry" creationdate="20151122T173944Z">
+        <seg>¿Considerarías &lt;t2/&gt;donar estos artículos o prestarte &lt;t3/&gt;voluntario&lt;t4/&gt; para esta causa benéfica?</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
