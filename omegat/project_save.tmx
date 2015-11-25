@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>1&lt;t0/&gt;st&lt;t1/&gt;Auction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T140917Z" creationid="Patry" creationdate="20151125T140917Z">
+        <seg>1&lt;t0/&gt;º&lt;t1/&gt;Subasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2&lt;t0/&gt;nd&lt;t1/&gt; Auction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T140931Z" creationid="Patry" creationdate="20151125T140931Z">
+        <seg>2&lt;t0/&gt;º&lt;t1/&gt; Subasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t7/&gt;All&lt;t8/&gt; proceeds of the auction reach &lt;t9/&gt;health-related charities&lt;t10/&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Patry" changedate="20151125T140613Z" creationid="Patry" creationdate="20151125T140613Z">
@@ -14,10 +30,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alliance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T140850Z" creationid="Patry" creationdate="20151125T140850Z">
+        <seg>el cáncer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auction Distribution for Selected Charities</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T140841Z" creationid="Patry" creationdate="20151125T140841Z">
+        <seg>Distribución de las ganancias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancer</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T140846Z" creationid="Patry" creationdate="20151125T140846Z">
+        <seg>Alianza contra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Charity&lt;t0/&gt; &lt;t1/&gt;Auction</seg>
       </tuv>
       <tuv lang="ES" changeid="Patry" changedate="20151111T120250Z" creationid="Patry" creationdate="20151111T120250Z">
         <seg>Subasta&lt;t0/&gt; &lt;t1/&gt;benéfica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diabetes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T140855Z" creationid="Patry" creationdate="20151125T140855Z">
+        <seg>Liga de </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heart</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T140903Z" creationid="Patry" creationdate="20151125T140903Z">
+        <seg>Sociedad</seg>
       </tuv>
     </tu>
     <tu>
@@ -34,6 +90,30 @@
       </tuv>
       <tuv lang="ES" changeid="Patry" changedate="20151125T140334Z" creationid="Patry" creationdate="20151125T140334Z">
         <seg>Únete a nosotros en la Q&lt;t0/&gt;uinta &lt;t1/&gt;E&lt;t2/&gt;dición Anual &lt;t3/&gt;de la subasta benéfica de &lt;t4/&gt;Knoll Springs&lt;t5/&gt; a success&lt;t6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>League</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T140859Z" creationid="Patry" creationdate="20151125T140859Z">
+        <seg>Diabetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Society</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T140907Z" creationid="Patry" creationdate="20151125T140907Z">
+        <seg>del corazón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The amount of funds raised at the past four annual auctions has been phenomenal&lt;t11/&gt;, as shown in the following table and chart:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T140827Z" creationid="Patry" creationdate="20151125T140827Z">
+        <seg>La cantidad de fondos conseguidos en las cuatro ediciones anteriores fue espectacular &lt;t11/&gt;, como se observa en la tabla siguiente:</seg>
       </tuv>
     </tu>
     <tu>
