@@ -102,6 +102,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electronics:computers, printers, scanners, cameras</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T141301Z" creationid="Patry" creationdate="20151125T141301Z">
+        <seg>Electrónica: ordenadores, impresoras, escáners, cámaras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Entertainment:books, movies, music, games</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T141315Z" creationid="Patry" creationdate="20151125T141315Z">
+        <seg>Ocio: libros, películas, música, juegos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For every item sold at the auction, the donor and the buyer each specify a charity to which they want the proceeds directed.</seg>
       </tuv>
       <tuv lang="ES" changeid="Patry" changedate="20151125T141025Z" creationid="Patry" creationdate="20151125T141025Z">
@@ -118,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Home and Garden:appliances, clocks, tools</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T141354Z" creationid="Patry" creationdate="20151125T141354Z">
+        <seg>Casa y jardín: relojes, herramientas, accesorios. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the donor and buyer identify the same organization, the specified charity receives 100 percent of the proceeds.</seg>
       </tuv>
       <tuv lang="ES" changeid="Patry" changedate="20151125T141138Z" creationid="Patry" creationdate="20151125T141138Z">
@@ -130,6 +154,14 @@
       </tuv>
       <tuv lang="ES" changeid="Patry" changedate="20151125T141113Z" creationid="Patry" creationdate="20151125T141113Z">
         <seg>Si cada uno elige una diferente, Knoll Springs destinará el 50% de los beneficios a cada una de ellas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are interested in donating items or volunteering your time for this auction, please contact Mark Kane at 555-3828.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T141531Z" creationid="Patry" creationdate="20151125T141531Z">
+        <seg>Si estás interesado en donar algún artículo o ser voluntario en esta subasta, por favor, contacta con Mark Kane en el 555-3828.</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Outdoor Equipment:bicycles, golf clubs, tents, boats</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T141434Z" creationid="Patry" creationdate="20151125T141434Z">
+        <seg>Equipamiento de exterior: bicicletas, accesorios de golf, tiendas de campaña, barcas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Society</seg>
       </tuv>
       <tuv lang="ES" changeid="Patry" changedate="20151125T140907Z" creationid="Patry" creationdate="20151125T140907Z">
@@ -174,10 +214,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We also are requesting the assistance of volunteers before and during the auction, as outlined in the table below:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T141503Z" creationid="Patry" creationdate="20151125T141503Z">
+        <seg>También se ruega la asistencia de voluntarios antes y durante la subasta, como se especifica en la tabla inferior:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Would &lt;t2/&gt;you consider donating these items or &lt;t3/&gt;volunteering&lt;t4/&gt; your time to a cause that will benefit humanity?</seg>
       </tuv>
       <tuv lang="ES" changeid="Patry" changedate="20151122T173944Z" creationid="Patry" creationdate="20151122T173944Z">
         <seg>¿Considerarías &lt;t2/&gt;donar estos artículos o prestarte &lt;t3/&gt;voluntario&lt;t4/&gt; para esta causa benéfica?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• &lt;t0/&gt;Art:&lt;t1/&gt; figurines, paintings, photographs, pottery, statues</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T141240Z" creationid="Patry" creationdate="20151125T141240Z">
+        <seg>• &lt;t0/&gt;Arte:&lt;t1/&gt; figuras, cuadros, fotografías, cerámica, estátuas.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
