@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>F&lt;t0/&gt;IF&lt;t1/&gt;TH ANNUAL KNOLL SPRINGS CHARITY AUCTION</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T141608Z" creationid="Patry" creationdate="20151125T141608Z">
+        <seg>Q&lt;t0/&gt;UIN&lt;t1/&gt;TA EDICIÓN ANUAL DE LA SUBASTA BENÉFICA DE KNOLL SPRINGS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For every item sold at the auction, the donor and the buyer each specify a charity to which they want the proceeds directed.</seg>
       </tuv>
       <tuv lang="ES" changeid="Patry" changedate="20151125T141025Z" creationid="Patry" creationdate="20151125T141025Z">
@@ -202,6 +210,14 @@
       </tuv>
       <tuv lang="ES" changeid="Patry" changedate="20151125T140907Z" creationid="Patry" creationdate="20151125T140907Z">
         <seg>del corazón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thank you very much!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T141537Z" creationid="Patry" creationdate="20151125T141537Z">
+        <seg>¡Muchas gracias!</seg>
       </tuv>
     </tu>
     <tu>
