@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3&lt;t0/&gt;rd&lt;t1/&gt;Auction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T140938Z" creationid="Patry" creationdate="20151125T140938Z">
+        <seg>3&lt;t0/&gt;º&lt;t1/&gt;Subasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4&lt;t0/&gt;th&lt;t1/&gt; Auctio&lt;t2/&gt;n</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T140950Z" creationid="Patry" creationdate="20151125T140950Z">
+        <seg>4&lt;t0/&gt;º&lt;t1/&gt; Subast&lt;t2/&gt;a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t7/&gt;All&lt;t8/&gt; proceeds of the auction reach &lt;t9/&gt;health-related charities&lt;t10/&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Patry" changedate="20151125T140613Z" creationid="Patry" creationdate="20151125T140613Z">
@@ -38,10 +54,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Au&lt;t0/&gt;ctioneers will sell items that are new or in like-new condition or antiques.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T141200Z" creationid="Patry" creationdate="20151125T141200Z">
+        <seg>Se venderán artículos nuevos, seminuevos o antigüedades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auction Distribution for Selected Charities</seg>
       </tuv>
       <tuv lang="ES" changeid="Patry" changedate="20151125T140841Z" creationid="Patry" creationdate="20151125T140841Z">
         <seg>Distribución de las ganancias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auction categories include, but are not limited to, the following:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T141221Z" creationid="Patry" creationdate="20151125T141221Z">
+        <seg>Las categorías de los artículos incluyen lo siguiente, aunque no se limitan a ello:</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,10 +102,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For every item sold at the auction, the donor and the buyer each specify a charity to which they want the proceeds directed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T141025Z" creationid="Patry" creationdate="20151125T141025Z">
+        <seg>Por cada artículo vendido en la subasta, el donante y el comprador eligen una obra a la que quieren destinar las ganancias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Heart</seg>
       </tuv>
       <tuv lang="ES" changeid="Patry" changedate="20151125T140903Z" creationid="Patry" creationdate="20151125T140903Z">
         <seg>Sociedad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the donor and buyer identify the same organization, the specified charity receives 100 percent of the proceeds.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T141138Z" creationid="Patry" creationdate="20151125T141138Z">
+        <seg>Si ambos eligen la misma, esta recibirá el 100%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the donor and buyer identify two separate organizations, Knoll Springs Community Club sends 50 percent of the proceeds to each charity.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151125T141113Z" creationid="Patry" creationdate="20151125T141113Z">
+        <seg>Si cada uno elige una diferente, Knoll Springs destinará el 50% de los beneficios a cada una de ellas.</seg>
       </tuv>
     </tu>
     <tu>
